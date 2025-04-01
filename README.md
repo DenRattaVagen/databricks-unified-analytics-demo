@@ -15,7 +15,7 @@ This repository demonstrates how to build a unified analytics pipeline using Dat
 - `images/`: Visuals (roadmap, diagrams)
 
 ## 📘 Blog Post
-Read the full article: [Deep Dive: Unified Analytics on Apache Spark](#)
+Read the full article: [Deep Dive: Unified Analytics on Apache Spark](https://medium.com/@fouad.sahraoui/deep-dive-unified-analytics-on-apache-spark-with-databricks-2048419a2465)
 
 ## 💡 How to Use
 1. Upload the notebook to Databricks
